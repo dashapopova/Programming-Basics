@@ -36,7 +36,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       <a href="./PB-Sem2.ipynb"> Datatypes and variables</a><br>
     <a href="./markdown.md">Markdown</a></td>
     <td><a href="./Python101_HW1.pdf">HW1</a></td>
-    <td>25.09 noon</td>
+    <td>18.09 noon</td>
     <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
       2. <a href="https://docs.python.org/3.6/library/stdtypes.html#string-methods">strings</a><br>
       3. <a href="https://docs.python.org/3.6/tutorial/datastructures.html">lists</a><br>
@@ -73,7 +73,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td></td>
-    <td></td>
+    <td>Web design</td>
     <td></td>
     <td></td>
     <td></td>
@@ -92,7 +92,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       <a href="./CFGs.ipynb">Context-free Grammars in Python</a>
       </td>
     <td></td>
-    <td>Final project is due:triumph:</td>
+    <td></td>
     <td></td>
   </tr>
    <td></td>
