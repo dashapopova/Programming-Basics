@@ -2,6 +2,8 @@
 
 Introductory seminars for Linguistics Master students
 
+**If you want participate, please fill out the participation form and give it to Людмила Ивановна Колдина (Учебный офис, 404)** 
+
 ### Hours
 
 Wed, 18.10 -- 21.00, room 402
