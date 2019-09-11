@@ -9,7 +9,8 @@ Find a datatype that we have not discussed in class (don't forget to tell me wha
 An example solution:
 datatype: `list`
 + `x.append()` – this method adds an element at the end of the list `x`
-+ `x.pop(1)` – this method removes an element at a specified index position in the list `x` (1 in this case). The method returns that element, altering the list at the same time.
++ `x.pop(1)` – this method removes an element at a specified index position in the list `x` (1 in this case). The method returns that element, altering the list at the same time
++ `len(x)` -- this function is used to determine the length of the list `x`
 
 2. **Comparisons: 2 points**
 
