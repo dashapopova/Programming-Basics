@@ -9,7 +9,7 @@ Introductory seminars for Linguistics Master students
 Wed, 18.10 -- 21.00, room 402
 
 ### Instructor
-* Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com), telegram @dasha popova))
+* Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
 
 ### Grade calculator
 * 25% -- final project (exam)
