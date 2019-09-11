@@ -32,6 +32,15 @@ wrote’, *kaatab-a* ’he corresponded’, *kutib-a* ’it was written’, *kit
 How might you use `format()` to describe this system? Give a sample representation for the
 root *k,t,b* and how `format()` could be used to express different categories.
 
-4.
+4. **Pragmatics: 2 points**
+```
+x = ’The bartender... absolutely horrible... we waited 10 min before we even got her attention...
+and then we had to wait 45 – FORTY FIVE! – minutes for our entrees... stalk the waitress to
+get the cheque... she didn’t make eye contact or even break her stride to wait for a response ...’
+```
+What will happen if we apply `lower()` to the string `x`?
+What information will we lose when `lower()` is applied to `x`?
+List one linguistic task where the application of `lower()` to `x` is useful and one task where it
+is harmful.
 
 5.
