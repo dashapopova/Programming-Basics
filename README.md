@@ -62,7 +62,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
     <td></td>
     <td><a href="./onfunctions.md">On functions</a>
-   </td>
+    </td>
    </tr>
     <tr>
     <td></td>
