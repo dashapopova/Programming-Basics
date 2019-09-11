@@ -43,4 +43,15 @@ What information will we lose when `lower()` is applied to `x`?
 List one linguistic task where the application of `lower()` to `x` is useful and one task where it
 is harmful.
 
-5.
+5. **Funky Dictionary: 2 points**
+
+List commands that would do the following:
++ create a dictionary `d` that contains 10 Russian (slang) words that, you think, a
+non-native speaker of Russian might not know with definitions in English;
++ test that your dictionary contains 10 pairs;
++ test whether a given key is in the dictionary;
++ delete an entry (a key-value pair);
++ add an entry;
++ print a list of keys;
++ print a list of values;
++ print a list of key-value pairs.
