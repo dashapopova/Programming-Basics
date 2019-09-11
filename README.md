@@ -31,7 +31,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <th>Reference</th>
   </tr>
   <tr>
-    <td>11.09.</td>
+    <td>11.09</td>
     <td><a href="./PB-Sem1.ipynb">Interacting with Python and basic functions</a><br>
       <a href="./PB-Sem2.ipynb"> Datatypes and variables</a><br>
     <a href="./markdown.md">Markdown</a></td>
