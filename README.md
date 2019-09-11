@@ -35,7 +35,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./PB-Sem1.ipynb">Interacting with Python and basic functions</a><br>
       <a href="./PB-Sem2.ipynb"> Datatypes and variables</a><br>
     <a href="./markdown.md">Markdown</a></td>
-    <td><a href="./Python101_HW1.pdf">HW1</a></td>
+    <td><a href="./HW1.md">HW1</a></td>
     <td>18.09 noon</td>
     <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
       2. <a href="https://docs.python.org/3.6/library/stdtypes.html#string-methods">strings</a><br>
