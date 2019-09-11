@@ -32,7 +32,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   <tr>
     <td>8.09.</td>
-    <td> 1. Interacting with Python and basic functions<br>
+    <td><a href="./PB-Sem1.ipynb">Interacting with Python and basic functions</a><br>
       2. Datatypes and variables </td>
     <td><a href="./Python101_HW1.pdf">HW1</a></td>
     <td>17.09 21:00</td>
