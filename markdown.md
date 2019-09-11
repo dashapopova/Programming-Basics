@@ -109,7 +109,7 @@ To insert a picture:
 
 !\[\]\(a link to the picture\)
 
-For exmaple:
+For example:
 
 ```
 ![](http://3.bp.blogspot.com/-_DLc3qDxsNA/VenIznBsK7I/AAAAAAAAB0A/GHjI_97B364/s1600/TheFunk.jpg)
