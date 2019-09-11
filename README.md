@@ -10,9 +10,14 @@ Wed, 18.10 -- 21.00, room 402
 * Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
 
 ### Grade calculator
-* 40% -- Project
-* 50% -- Homework
-* 10% -- Active Participation
+* 25% -- final project (exam)
+* 15% -- homework assignment 1
+* 15% -- homework assignment 2
+* 20% -- homework assignment 3
+* 20% -- homework assignment 4
+* 5% -- active participation
+
+Final grade is rounded in favor of the student. There are no blocking elements of the grade. 
 
 ### Schedule
 <table>
