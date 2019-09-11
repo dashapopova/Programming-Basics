@@ -1,10 +1,10 @@
-# Python101: Python for Linguists 2018
+# Programming Basics: Python for Linguists 2019
 
 Introductory seminars for Linguistics Master students
 
 ### Hours
 
-Sut, 12.10 -- 15.00, room 504
+Wed, 18.10 -- 21.00, room 402
 
 ### Instructor
 * Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
