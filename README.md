@@ -73,13 +73,16 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td></td>
-    <td>Web design</td>
+    <td><a href="./TextManipulation.ipynb">Text manipulation</a><br>
+      <a href="./InternetData(1).ipynb">Internet data: urllib</a><br>
+  <a href="./lxml_bs4.ipynb">Parsing HTML</a>
+  </td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>/td>
+    <td></td>
     <td><a href="./visualization(1).ipynb">Visualization</a><br>
      <a href="./mystem.md">Mystem</a> </td>
     <td></td>
