@@ -65,7 +65,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     </td>
    </tr>
     <tr>
-    <td>28.09</td>
+    <td>28.09 (Sut!)</td>
     <td><a href="./regexpr.md">Regular expressions</a></td>
     <td></td>
     <td></td>
@@ -82,7 +82,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
     <tr>
-    <td>05.10</td>
+    <td>05.10 (Sut!)</td>
     <td><a href="./visualization(1).ipynb">Visualization</a><br>
      <a href="./mystem.md">Mystem</a> </td>
     <td></td>
@@ -90,7 +90,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
     <tr>
-    <td>9.10</td>
+    <td>09.10</td>
     <td><a href="./MystemPython.ipynb">Mystem in Python</a><br>
       <a href="./CFGs.ipynb">Context-free Grammars in Python</a>
       </td>
