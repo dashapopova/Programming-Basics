@@ -47,10 +47,10 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>18.09</td>
-    <td>Control structures</td>
-    <td>
+    <td><a href="./PBSem3.ipynb"> Control structures</a></td>
+    <td><a href="./PBHW2.ipynb">HW2</a>
       </td>
-    <td></td>
+    <td>25.09 noon</td>
     <td> 1. <a href="https://docs.python.org/3.6/tutorial/controlflow.html">control flow tools</a><br>
       2. <a href="https://docs.python.org/3.6/library/functions.html">built-in functions</a>
       </td>
@@ -61,18 +61,18 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       2. <a href="./subroutinesmodules.md">Subroutines and modules</a></td>
     <td></td>
     <td></td>
-    <td><a href="./onfunctions.md">On functions</a>
+    <td>
     </td>
    </tr>
     <tr>
-    <td></td>
+    <td>28.09</td>
     <td><a href="./regexpr.md">Regular expressions</a></td>
     <td></td>
     <td></td>
     <td> Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
     <tr>
-    <td></td>
+    <td>02.10</td>
     <td><a href="./TextManipulation.ipynb">Text manipulation</a><br>
       <a href="./InternetData(1).ipynb">Internet data: urllib</a><br>
   <a href="./lxml_bs4.ipynb">Parsing HTML</a>
@@ -82,7 +82,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
     <tr>
-    <td></td>
+    <td>05.10</td>
     <td><a href="./visualization(1).ipynb">Visualization</a><br>
      <a href="./mystem.md">Mystem</a> </td>
     <td></td>
@@ -90,7 +90,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
     <tr>
-    <td></td>
+    <td>9.10</td>
     <td><a href="./MystemPython.ipynb">Mystem in Python</a><br>
       <a href="./CFGs.ipynb">Context-free Grammars in Python</a>
       </td>
@@ -98,7 +98,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
     <td></td>
   </tr>
-   <td></td>
+   <td>16.10</td>
     <td>Final project presentations</td>
     <td></td>
     <td>Final project is due:triumph:</td>
