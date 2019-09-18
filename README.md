@@ -66,7 +66,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     </td>
    </tr>
     <tr>
-    <td>28.09 (Sut!)</td>
+    <td>28.09 (Sut! 10.30 402)</td>
     <td><a href="./regexpr.md">Regular expressions</a></td>
     <td></td>
     <td></td>
@@ -83,7 +83,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
     <tr>
-    <td>05.10 (Sut!)</td>
+    <td>05.10 (Sut!, 10.30 402)</td>
     <td><a href="./visualization(1).ipynb">Visualization</a><br>
      <a href="./mystem.md">Mystem</a> </td>
     <td></td>
