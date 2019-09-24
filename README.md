@@ -59,7 +59,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   <tr>
     <td>25.09</td>
-    <td><a href="./input-output.md">Input--Output</a>
+    <td><a href="./input-output.md">Input--Output</a><br>
+      <a href="./OnFunctions.md">On functions</a>
      </td>
     <td>HW3</td>
     <td>2.10</td>
