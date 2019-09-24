@@ -51,17 +51,18 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./PBHW2.ipynb">HW2</a><br>
       <a href="./PBHW2.md">HW2</a>
       </td>
-    <td>25.09 noon</td>
+    <td>25.09 noon<br>
+      extended: 28.09 10am</td>
     <td> 1. <a href="https://docs.python.org/3.6/tutorial/controlflow.html">control flow tools</a><br>
       2. <a href="https://docs.python.org/3.6/library/functions.html">built-in functions</a>
       </td>
   </tr>
   <tr>
     <td>25.09</td>
-    <td>1. <a href="./input-output.md">Input--Output</a>
+    <td><a href="./input-output.md">Input--Output</a>
      </td>
-    <td></td>
-    <td></td>
+    <td>HW3</td>
+    <td>2.10</td>
     <td>
     </td>
    </tr>
@@ -78,8 +79,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       Text manipulation
       </a>
   </td>
-    <td></td>
-    <td></td>
+    <td>HW4</td>
+    <td>9.10</td>
     <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
     <tr>
@@ -94,7 +95,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>09.10</td>
     <td>Visualization
       </td>
-    <td></td>
+    <td>Declare your final project</td>
     <td></td>
     <td></td>
   </tr>
