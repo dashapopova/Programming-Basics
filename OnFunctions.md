@@ -8,7 +8,7 @@ If we specify the value of x, e.g.:
 
 * x = 2, then 2 will be put in the x slot: f(2) = 2 + 2
 * x = 3, then 3 will be put in the x slot: f(3) = 3 + 2
-* x = 'dasha', then f(x) won't be computed, since x is not an integer or float.
+* x = 'dasha', then f(x) won't be computed, since x is not an integer or a float.
 
 ### Now:
 
