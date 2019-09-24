@@ -58,8 +58,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   <tr>
     <td>25.09</td>
-    <td>1. <a href="./input-output.md">Input--Output</a><br>
-      2. <a href="./subroutinesmodules.md">Subroutines and modules</a></td>
+    <td>1. <a href="./input-output.md">Input--Output</a>
+     </td>
     <td></td>
     <td></td>
     <td>
@@ -67,33 +67,32 @@ Final grade is rounded in favor of the student. There are no blocking elements o
    </tr>
     <tr>
     <td>28.09 (Sut! 10.30 402)</td>
-    <td><a href="./regexpr.md">Regular expressions</a></td>
+    <td>Subroutines and modules</td>
     <td></td>
     <td></td>
-    <td> Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
+    <td> </td>
   </tr>
     <tr>
     <td>02.10</td>
-    <td><a href="./TextManipulation.ipynb">Text manipulation</a><br>
-      <a href="./InternetData(1).ipynb">Internet data: urllib</a><br>
-  <a href="./lxml_bs4.ipynb">Parsing HTML</a>
+    <td>Regular expressions<br>
+      Text manipulation
+      </a>
   </td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
     <tr>
     <td>05.10 (Sut!, 10.30 402)</td>
-    <td><a href="./visualization(1).ipynb">Visualization</a><br>
-     <a href="./mystem.md">Mystem</a> </td>
+    <td>Internet data: urllib<br>
+  Parsing HTML</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>09.10</td>
-    <td><a href="./MystemPython.ipynb">Mystem in Python</a><br>
-      <a href="./CFGs.ipynb">Context-free Grammars in Python</a>
+    <td>Visualization
       </td>
     <td></td>
     <td></td>
