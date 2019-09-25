@@ -70,7 +70,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
    </tr>
     <tr>
     <td>28.09 (Sut! 10.30 402)</td>
-    <td>Subroutines and modules</td>
+    <td><a href="./PBSem5.ipynb">Subroutines and modules</a></td>
     <td></td>
     <td></td>
     <td> </td>
