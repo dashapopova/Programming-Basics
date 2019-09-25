@@ -62,8 +62,9 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./PBSem4.ipynb">Input--Output</a><br>
       <a href="./OnFunctions.md">On functions</a>
      </td>
-    <td>HW3</td>
-    <td>2.10</td>
+    <td><a href="./PBHW3.ipynb">HW3</a><br>
+      <a href="./PBHW3.md">HW3</a></td>
+    <td>2.10 noon</td>
     <td>
     </td>
    </tr>
