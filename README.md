@@ -89,7 +89,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>05.10 (Sut!, 10.30 402)</td>
-    <td>Internet data: urllib<br>
+    <td><a href="./InternetData(2).ipynb">Internet data</a><br>
   <a href="./PPSem2.ipynb">Parsing HTML</a></td>
     <td></td>
     <td></td>
