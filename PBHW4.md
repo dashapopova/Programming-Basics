@@ -26,10 +26,10 @@ You will need to do the following (or something which is analogous to the follow
 1. tokenize alice.txt, please apply the tokenization function you wrote for hw3 -- 1 point;
 2. apply the `gutenberg_file_wc` function (also from hw3) to alice.txt to get the word counts -- 1 point;
 3. try to search for (word) initial consonant clusters using regular expression(s) (Don't forget to `import re` at the beginning of your program) -- 3 points;
-4. do and print the counts for all the clusters that you have identified, you should end up with a dictionary like `{'pr': 26, 'sp': 15,...}` -- 2 points; 
+4. print the counts for all the clusters that you have identified, you should end up with a dictionary like `{'pr': 26, 'sp': 15,...}` -- 2 points; 
 5. print the total number of different clusters you've identified, e.g., 10 clusters or 40 clusters -- 1 point;
 6. print the list of all the clusters in the alphabetical order, ['bl', 'br',...] -- 1 point;
 
 #### Task 2: Final Project Idea -- 1 point
 
-Write a couple of sentences about what you want to do for your final project. Keep in mind that your final project should be roughly equivalent to one homework. Come ready to discuss your idea in class on Oct 9th.
+Write a couple of sentences about what you want to do for your final project. Keep in mind that your final project should be an original piece of code that is roughly equivalent to one homework. Come ready to discuss your idea in class on Oct 9th.
