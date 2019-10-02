@@ -85,7 +85,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       </a>
   </td>
     <td>HW4</td>
-    <td>9.10</td>
+    <td>9.10 noon</td>
     <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
     <tr>
