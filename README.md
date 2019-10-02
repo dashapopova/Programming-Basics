@@ -71,11 +71,11 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <tr>
     <td>28.09 (Sut! 10.30 402)</td>
     <td><a href="./PBSem5.ipynb">Subroutines and modules</a></td>
-    <td><a href="./PBHW2Solutions.ipynb">HW2</a><br>
-      <a href="./PBHW2Solutions.md">HW2</a>
+    <td><a href="./PBHW2Solutions.ipynb">HW2 Solutions</a><br>
+      <a href="./PBHW2Solutions.md">HW2 Solutions</a>
       </td>
-    <td><a href="./PBHW3Solutions.ipynb">HW2</a><br>
-      <a href="./PBHW3Solutions.md">HW2</a></td>
+    <td><a href="./PBHW3Solutions.ipynb">HW3 Solutions</a><br>
+      <a href="./PBHW3Solutions.md">HW3 Solutions</a></td>
     <td> </td>
   </tr>
     <tr>
