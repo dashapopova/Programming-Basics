@@ -80,7 +80,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>02.10</td>
-    <td>Regular expressions<br>
+    <td><a href="./RE.ipynb">Regular expressions</a><br>
       <a href="./TextManipulation(1).ipynb">Text manipulation</a>
   </td>
     <td>HW4</td>
