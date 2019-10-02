@@ -88,7 +88,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <tr>
     <td>05.10 (Sut!, 10.30 402)</td>
     <td>Internet data: urllib<br>
-  Parsing HTML</td>
+  <a href="./PPSem2.ipynb">Parsing HTML</a></td>
     <td></td>
     <td></td>
     <td></td>
