@@ -94,7 +94,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   <a href="./PPSem2.ipynb">Parsing HTML</a></td>
     <td></td>
     <td></td>
-    <td>[HTML](https://www.w3schools.com/html/html_intro.asp)</td>
+    <td>HTML (https://www.w3schools.com/html/html_intro.asp)</td>
   </tr>
     <tr>
     <td>09.10</td>
