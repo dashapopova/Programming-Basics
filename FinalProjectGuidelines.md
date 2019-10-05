@@ -8,7 +8,7 @@ The write-up could be done as a text part of the .ipynb file or as a text docume
 It should not be very long, but it should: a) state the goal of your project; b) reformulate the problem in terms of functions that you plan to code; 
 c) describe briefly what each of the functions aims to accomplish; d) state the program limitations and possible future improvements.
 
-2. **6 points -- The independently defined original functions**
+2. **6 points -- Three independently defined original functions**
 
 Three independently defined original functions -- 2 points per function. You can use one of the functions that we defined in class/in homeworks, but for it to count as original, it has to be modified/expanded.
 
@@ -23,7 +23,7 @@ and 0.5 points for your questions about other people's work.
 
 9.10 -- consultation (19.30 - 21.00)
 
-16.10 -- oral presentations (18.10 - 21.00), code and the write-up are due by 12.00 -- **no late work is accepted**
+16.10 -- oral presentations (18.10 - 21.00), code and the write-up are due by noon -- **no late work is accepted**
 
 #### Final Project Suggestions
 
@@ -37,4 +37,4 @@ Write a more advanced version of the tokenizer that you have written for HW3 que
 
 ##### Introducing a new module
 
-Introduce a module that we haven't discussed in class, e.g., a module for parsing Praat files, or a module for working with JSON, describe what the module is useful for, show us how at least three methods of this module work.
+Introduce a module that we haven't discussed in class, e.g., a module for parsing Praat files, or a module for working with JSON, describe what the module is used for and what it is useful for, show us how at least three methods of this module work, provide examples.
