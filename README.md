@@ -92,7 +92,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./InternetData(2).ipynb">Internet data</a><br>
   <a href="./PPSem2.ipynb">Parsing HTML</a></td>
     <td></td>
-    <td></td>
+    <td><a href="./FinalProjectGuidelines.md">Final Project Guidelines</a></td>
     <td>HTML (https://www.w3schools.com/html/html_intro.asp)</td>
   </tr>
     <tr>
