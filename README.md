@@ -97,8 +97,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>09.10</td>
-    <td>Visualization
-      </td>
+    <td><a href="./visualization(2).ipynb">Visualization-1</a><br>
+      <a href="./PPVisualization(1).ipynb">Visualization-2</a></td>
     <td>Declare your final project</td>
     <td></td>
     <td></td>
