@@ -100,7 +100,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./visualization(2).ipynb">Visualization-1</a><br>
       <a href="./PPVisualization(1).ipynb">Visualization-2</a></td>
     <td>Declare your final project</td>
-    <td><a href="./PBHW4Solutions(1).ipynb">HW4 Solution</a></td>
+    <td><a href="./PBHW4Solution(1).ipynb">HW4 Solution</a></td>
     <td></td>
   </tr>
    <td>16.10</td>
