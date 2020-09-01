@@ -1,4 +1,4 @@
-# Programming Basics: Python for Linguists 2019
+# Programming Basics: Python for Linguists 2020
 
 Introductory seminars for Linguistics Master students
 
@@ -6,18 +6,17 @@ Introductory seminars for Linguistics Master students
 
 ### Hours
 
-Wed, 18.10 -- 21.00, room 402
+Mon, 18.10 -- 21.00, room 401 (Wed & Fr the first week)
 
 ### Instructor
-* Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
+* Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com), [telegram](https://t.me/dppopova)))
 
 ### Grade calculator
 * 25% -- final project (exam)
 * 15% -- homework assignment 1
-* 15% -- homework assignment 2
+* 20% -- homework assignment 2
 * 20% -- homework assignment 3
 * 20% -- homework assignment 4
-* 5% -- active participation
 
 Final grade is rounded in favor of the student. There are no blocking elements of the grade. 
 
@@ -31,7 +30,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <th>Reference</th>
   </tr>
   <tr>
-    <td>11.09</td>
+    <td>02.09</td>
     <td><a href="./PB-Sem1.ipynb">Interacting with Python and basic functions</a><br>
       <a href="./PB-Sem2.ipynb"> Datatypes and variables</a><br>
     <a href="./markdown.md">Markdown</a></td>
@@ -46,7 +45,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     </td>
   </tr>
     <tr>
-    <td>18.09</td>
+    <td>04.09</td>
     <td><a href="./PBSem3.ipynb"> Control structures</a></td>
     <td><a href="./PBHW2.ipynb">HW2</a><br>
       <a href="./PBHW2.md">HW2</a>
@@ -58,7 +57,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       </td>
   </tr>
   <tr>
-    <td>25.09</td>
+    <td>07.09</td>
     <td><a href="./PBSem4.ipynb">Input--Output</a><br>
       <a href="./OnFunctions.md">On functions</a>
      </td>
@@ -69,7 +68,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     </td>
    </tr>
     <tr>
-    <td>28.09 (Sut! 10.30 402)</td>
+    <td>14.09</td>
     <td><a href="./PBSem5.ipynb">Subroutines and modules</a></td>
     <td><a href="./PBHW2Solutions.ipynb">HW2 Solutions</a><br>
       <a href="./PBHW2Solutions.md">HW2 Solutions</a>
@@ -79,7 +78,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td> </td>
   </tr>
     <tr>
-    <td>02.10</td>
+    <td>21.09</td>
     <td><a href="./RE.ipynb">Regular expressions</a><br>
       <a href="./TextManipulation(1).ipynb">Text manipulation</a>
   </td>
@@ -88,7 +87,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
     <tr>
-    <td>05.10 (Sut!, 10.30 402)</td>
+    <td>28.09</td>
     <td><a href="./InternetData(2).ipynb">Internet data</a><br>
   <a href="./PPSem2.ipynb">Parsing HTML</a></td>
     <td></td>
@@ -96,14 +95,14 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>HTML (https://www.w3schools.com/html/html_intro.asp)</td>
   </tr>
     <tr>
-    <td>09.10</td>
+    <td>05.10</td>
     <td><a href="./visualization(2).ipynb">Visualization-1</a><br>
       <a href="./PPVisualization(1).ipynb">Visualization-2</a></td>
     <td>Declare your final project</td>
     <td><a href="./PBHW4Solution(1).ipynb">HW4 Solution</a></td>
     <td></td>
   </tr>
-   <td>16.10</td>
+   <td>12.10</td>
     <td>Final project presentations</td>
     <td></td>
     <td>Final project is due:triumph:</td>
