@@ -49,8 +49,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./PBSem3.ipynb"> Control structures</a></td>
     <td>
       </td>
-    <td>25.09 noon<br>
-      extended: 28.09 10am</td>
+    <td></td>
     <td> 1. <a href="https://docs.python.org/3.6/tutorial/controlflow.html">control flow tools</a><br>
       2. <a href="https://docs.python.org/3.6/library/functions.html">built-in functions</a>
       </td>
