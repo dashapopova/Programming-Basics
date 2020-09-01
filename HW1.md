@@ -48,7 +48,7 @@ is harmful.
 
 List commands that would do the following:
 + create a dictionary `d` that contains 10 Russian (slang) words that, you think, a
-non-native speaker of Russian might not know with definitions in English;
+non-native speaker of Russian might not know with definitions in English; if your native language is not Russian, you can choose any language you speak;
 + test that your dictionary contains 10 pairs;
 + test whether a given key is in the dictionary;
 + delete an entry (a key-value pair);
