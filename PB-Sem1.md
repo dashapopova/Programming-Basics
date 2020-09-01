@@ -3,7 +3,7 @@
 
 When you install Python, you can choose among different versions. We will be using any of the 3.x versions.
 
-There are at least three ways you can invoke Python:
+There are at least four ways you can invoke Python:
 1. interactive environment terminal or Python window
 2. idle Python integrated development environment
 3. edit & run write a program that you run in the terminal window
@@ -155,7 +155,7 @@ move it there or you can instruct the terminal to switch to another directory wi
 the `cd` command (followed by the path to the directory you want to be in).
 
 
-Once can also add comments to a code file. Comments are lines of code that remind
+One can also add comments to a code file. Comments are lines of code that remind
 the programmer of what the code does or should do. Comments are marked
 with a `#` on their left. Everything on the same line after that `#` have no effect on
 the program. Comments can occur on their own line or on the right side of an actual
