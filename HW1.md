@@ -1,6 +1,6 @@
 ## Homework 1 Assignment
 
-Please e-mail an .ipynb file or a link to an .ipynb file in your github repository to daschapopowa@gmail.com by noon, September 18th.
+Please e-mail an .ipynb file or a link to an .ipynb file in your github repository to daschapopowa@gmail.com by noon, September 7th. Just for this assignment any format will be accepted (.docx, .md, .py), but it is good to start using jupyter notebook from the start.
 
 1. **Datatypes: 2 points**
 
