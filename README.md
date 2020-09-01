@@ -47,8 +47,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <tr>
     <td>04.09</td>
     <td><a href="./PBSem3.ipynb"> Control structures</a></td>
-    <td><a href="./PBHW2.ipynb">HW2</a><br>
-      <a href="./PBHW2.md">HW2</a>
+    <td>
       </td>
     <td>25.09 noon<br>
       extended: 28.09 10am</td>
@@ -61,20 +60,19 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./PBSem4.ipynb">Input--Output</a><br>
       <a href="./OnFunctions.md">On functions</a>
      </td>
-    <td><a href="./PBHW3.ipynb">HW3</a><br>
-      <a href="./PBHW3.md">HW3</a></td>
-    <td>2.10 noon</td>
+    <td><a href="./PBHW2.ipynb">HW2</a><br>
+      <a href="./PBHW2.md">HW2</a></td>
+    <td>14.09 noon</td>
     <td>
     </td>
    </tr>
     <tr>
     <td>14.09</td>
     <td><a href="./PBSem5.ipynb">Subroutines and modules</a></td>
-    <td><a href="./PBHW2Solutions.ipynb">HW2 Solutions</a><br>
-      <a href="./PBHW2Solutions.md">HW2 Solutions</a>
+    <td><a href="./PBHW3.ipynb">HW3</a><br>
+      <a href="./PBHW3.md">HW3</a>
       </td>
-    <td><a href="./PBHW3Solutions.ipynb">HW3 Solutions</a><br>
-      <a href="./PBHW3Solutions.md">HW3 Solutions</a></td>
+    <td>21.09 noon</td>
     <td> </td>
   </tr>
     <tr>
@@ -83,7 +81,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       <a href="./TextManipulation(1).ipynb">Text manipulation</a>
   </td>
     <td><a href="./PBHW4.md">HW4</a></td>
-    <td>9.10 noon</td>
+    <td>28.09 noon</td>
     <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
     <tr>
@@ -99,7 +97,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./visualization(2).ipynb">Visualization-1</a><br>
       <a href="./PPVisualization(1).ipynb">Visualization-2</a></td>
     <td>Declare your final project</td>
-    <td><a href="./PBHW4Solution(1).ipynb">HW4 Solution</a></td>
+    <td></td>
     <td></td>
   </tr>
    <td>12.10</td>
