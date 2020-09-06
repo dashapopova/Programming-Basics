@@ -61,7 +61,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
      </td>
     <td><a href="./PBHW2.ipynb">HW2</a><br>
       <a href="./PBHW2.md">HW2</a></td>
-    <td>14.09 noon</td>
+    <td>16.09 noon</td>
     <td>
     </td>
    </tr>
@@ -71,7 +71,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./PBHW3.ipynb">HW3</a><br>
       <a href="./PBHW3.md">HW3</a>
       </td>
-    <td>21.09 noon</td>
+    <td>23.09 noon</td>
     <td> </td>
   </tr>
     <tr>
@@ -80,7 +80,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       <a href="./TextManipulation(1).ipynb">Text manipulation</a>
   </td>
     <td><a href="./PBHW4.md">HW4</a></td>
-    <td>28.09 noon</td>
+    <td>30.09 noon</td>
     <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
     <tr>
