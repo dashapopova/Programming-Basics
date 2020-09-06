@@ -1,7 +1,7 @@
 
 ## Homework Assignment 2
 
-##### Due Sept 25th, at noon
+##### Due Sept 16th, at noon
 
 1. **CVC syllables generator -- 1 point** 
 
