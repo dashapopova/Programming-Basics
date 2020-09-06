@@ -1,4 +1,4 @@
-## Homework 4 Assignment -- due 9.10 by noon
+## Homework 4 Assignment -- due 30.09 by noon
 
 #### Task 1: Initial Consonant Clusters \[9 points\]
 
