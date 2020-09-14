@@ -32,4 +32,4 @@ You will need to do the following (or something which is analogous to the follow
 
 #### Task 2: Final Project Idea -- 1 point
 
-Write a couple of sentences about what you want to do for your final project. Keep in mind that your final project should be an original piece of code that is roughly equivalent to one homework. Come ready to discuss your idea in class on Oct 9th.
+Write a couple of sentences about what you want to do for your final project. Keep in mind that your final project should be an original piece of code that is roughly equivalent to one homework. Come ready to discuss your idea in class on Sept 28th.
