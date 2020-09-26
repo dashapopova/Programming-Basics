@@ -72,7 +72,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       <a href="./PBHW3.md">HW3</a>
       </td>
     <td>23.09 noon</td>
-    <td> </td>
+    <td><a href="./PBHW3Solutions.ipynb">HW3 Solutions</a> </td>
   </tr>
     <tr>
     <td>21.09</td>
