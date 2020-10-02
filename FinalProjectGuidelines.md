@@ -23,7 +23,7 @@ and 0.5 points for your questions about other people's work.
 
 28.09 -- consultation (19.30 - 21.00)
 
-12.10 -- oral presentations online, in zoom, (18.10 - 21.00), code and the write-up are due by noon -- **no late work is accepted**
+12.10 -- oral presentations **online**, in zoom, (18.10 - 21.00), code and the write-up are **due by noon** -- **no late work is accepted**
 
 #### Final Project Suggestions
 
