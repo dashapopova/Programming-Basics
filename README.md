@@ -79,7 +79,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td><a href="./RE.ipynb">Regular expressions</a><br>
       <a href="./TextManipulation(1).ipynb">Text manipulation</a>
   </td>
-    <td><a href="./PBHW4.md">HW4</a></td>
+    <td><a href="./PBHW4.md">HW4</a><br>
+      <a href="./PBHW4Solution(1).ipynb">HW4 Solution</a></td>
     <td>30.09 noon</td>
     <td>Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
