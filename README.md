@@ -100,7 +100,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
    <td>12.10</td>
-    <td>Final project presentations</td>
+    <td>Final project presentations (online!!)</td>
     <td></td>
     <td>Final project is due:triumph:</td>
     <td></td>
