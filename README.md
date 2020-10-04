@@ -94,7 +94,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>05.10</td>
-    <td><a href="./visualization(2).ipynb">Visualization-1</a><br>
+    <td><a href="./PB_pandas.ipynb">Pandas</a><br>
+      <a href="./visualization(2).ipynb">Visualization-1</a><br>
       <a href="./PPVisualization(1).ipynb">Visualization-2</a></td>
     <td></td>
     <td></td>
